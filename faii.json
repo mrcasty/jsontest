@@ -1,0 +1,15 @@
+{
+  "array": [
+    {
+      "id":1,
+      "city":"Bangkok",
+      "population":8305218
+    },
+    {
+      "id":2,
+      "city":"Chiang Mai",
+      "population":1198000
+    }
+  ],
+  "string": "Hello World"
+}
